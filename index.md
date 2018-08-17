@@ -7,14 +7,7 @@ Implementations of Markdown are available for over a dozen programming languages
 While Markdown is a minimal markup language and is read and edited with a normal text editor, there are specially designed editors that preview the files with styles, which are available for all major platforms. Many general purpose text and code editors have syntax highlighting plugins for Markdown built into them or available as optional download. Editors may feature a side-by-side preview window or render the code directly in a WYSIWYG fashion. 
 
 **My skill** :
-
-
- 1.HTML  
-
- 2.CSS
-
- 3.python
-
- 4.php
-
- 5.C++
+  1. HTML  
+  2. CSS
+  3. python
+  4.php
