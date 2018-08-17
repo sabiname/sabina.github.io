@@ -1,3 +1,3 @@
 sabina khadka
 ======
-![Image](messi.jpg)
+![Image](https://raw.githubusercontent.com/sabiname/sabiname.github.io/master/messi.jpg)
