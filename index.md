@@ -9,12 +9,12 @@ While Markdown is a minimal markup language and is read and edited with a normal
 **My skill** :
 
 
-1.HTML  
+ 1.HTML  
 
-2.CSS
+ 2.CSS
 
-3.python
+ 3.python
 
-4.php
+ 4.php
 
-5.C++
+ 5.C++
