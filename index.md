@@ -1,6 +1,6 @@
 sabina khadka
 ======
-![Image](IMG_20170712_091658.jpg)
+![Image](IMG-9f37d2c38dbf56bd0cceaa4f929afd0c-V.jpg)
 
 Implementations of Markdown are available for over a dozen programming languages; in addition, many platforms and frameworks support Markdown.[36] For example, Markdown plugins exist for every major blogging platform.[37]
 
